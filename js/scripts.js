@@ -1,4 +1,3 @@
-
 function pigLatin(text) {
   let newArray = [];
   let vowels = ["a", "e", "i", "o", "u"]

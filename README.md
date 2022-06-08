@@ -30,4 +30,5 @@ Test: "It will find the beginning letters in two words and add "way" if the word
 Code: 
 let newArray[];
 let vowels ["a", "e", "i", "o", "u"];
-pigLa
+pigLatin("akay okay)
+Expected Output: "akayway okayway"
